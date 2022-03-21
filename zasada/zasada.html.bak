@@ -1,0 +1,15 @@
+<html>
+
+<head>
+<title>Zasada zachowania pędu</title>
+</head>
+
+<body bgcolor="teal">
+</body>
+<center><h1> ZASADA ZACHOWANIA PĘDU</h1></center>
+<center><font color="black">Zasada zachowania pędu – jedna z fizycznych zasad zachowania. Treść zasady: <br>
+
+<dfn>Suma wektorowa pędów wszystkich elementów układu izolowanego pozostaje stała.</dfn></font><br></center>
+
+<center><video  width="300" height="200" controls autoplay><source src="Dos.mp4" type="video/mp4" />Yourbrowserdoesnot supportthe video element.</video></center>
+</html>
