@@ -1,0 +1,20 @@
+<html>
+ <head>
+ <title> herby </title>
+ </head>
+<body>
+<table border="5">
+            <tr><td> Warszawa</td>
+			<td> <img src=warszawa.jpg height="288" width="388 ></td>
+			</tr>
+			<tr>
+			<td> Katowice</td><td>
+			<img src=katowice.jpg height="288" width="388 ></td>
+			</tr>
+			<tr>
+			<td> Piekary śląskie</td>
+			<td> <img src=piekary.jpg height="288" width="388 ></td>
+			</tr>
+                    </table>
+</body>
+</html>
