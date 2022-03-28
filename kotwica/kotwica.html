@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+	<head>
+		<title> Definiowanie kotwicy w konkretnym miejscu strony</title>
+	</head>
+	<body>
+		<h1>Jak definiujemt kotwicę na stronie</h1>
+		
+		<section>
+			<h2 id="a_top">Tutaj zdewiniowaliśmy kotwicę o nazwie <i>a_top</i></h2>
+			<p>
+				<a href="#a_bottom">To jest link do kotwicy dolnej</a>
+				<figure>
+					<img src="kot1.jpg">
+					<figcaption>
+					Rysunek 1. Rudy kot
+					</figcaption>
+				</figure>
+			</p>
+		</section>
+		<br /><br /><br />
+		<p>
+			Zdefiniowanie kotwicy w konkretnym miejscu dokumentu HTML<br />
+			i wskazanie tej kotwicy w linku do dolnego dokumentu, <br />
+			spowoduje po jego otwarcu, przewinięcie -<br />
+			tak aby wiersz zawierający kotwicę znajdował się jak najbliżej górnej krawędzi okna przeglądarki.<br />
+			Aby było co przewijać dodajemy dwa rysunki kotwic oraz linie puste, <br />
+			a następnie, zdefiniujemy dwie kotwice.
+			<br /><br /><br />
+		</p>
+		</section>
+		<section>
+			<a name="a_bottom"></a>
+			<h2>Tutaj została zdefiniowana druga kotwica o nazwie <i>a_bottom</i></h2>
+			<p>
+				<a href="#a_top">To jest link do kotwicy górnej</a>
+				<figure>
+					<img src="kot2.jpg">
+					<figcaption>
+					Rysunek 1. Biały kot
+					</figcaption>
+				</figure>
+			</p>
+		</section>
+	</body>
+</html>
